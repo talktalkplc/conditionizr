@@ -1,0 +1,23 @@
+{
+    "name": "conditionizr",
+    "version": "4.5.1",
+    "authors": [
+        "@toddmotto, @markgdyr",
+    ],
+    "description": "Add ",
+    "main": [
+        "dist/conditionizr.js",
+        "detects/**.*.js"
+    ],
+    "moduleType": [
+        "globals"
+    ],
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "tests"
+    ]
+}
