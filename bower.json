@@ -7,7 +7,7 @@
     "description": "Add ",
     "main": [
         "dist/conditionizr.js",
-        "detects/**.*.js"
+        "detects/*.js"
     ],
     "moduleType": [
         "globals"
